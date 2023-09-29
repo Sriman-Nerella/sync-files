@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyNewApplication</string>
+    <string name="happy_birthday_text">Happy Birthday Sriman</string>
+    <string name="from_person">From Sriman</string>
+    <string name="Greeting_card">Happy Birthday Greeting Card</string>
+    <string name="Button_Click">Click me</string>
+</resources>
